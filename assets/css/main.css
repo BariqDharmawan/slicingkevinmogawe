@@ -1,0 +1,17 @@
+.text-20px {
+    font-size: 20px;
+}
+.text-underline {
+    text-decoration: underline;
+}
+.fslightbox-source {
+    padding: 0 1rem;
+    object-fit: contain;
+    object-position: center;
+}
+.navbar {
+    height: 65px;
+}
+.pt-75px {
+    padding-top: 75px;
+}
