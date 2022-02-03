@@ -12,6 +12,10 @@
 .navbar {
     height: 65px;
 }
-.pt-75px {
-    padding-top: 75px;
+
+.top-0 {
+    top: 0;
+}
+.left-0 {
+    left: 0;
 }
